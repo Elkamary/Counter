@@ -1,0 +1,25 @@
+body{
+    height: 8000px;
+}
+.container{
+    background: rgb(128, 124, 124);
+    display: flex;    
+    width: 60%;
+    margin: auto;
+    text-align: right;
+    /* position: absolute;
+    top: 50%;
+    left: 30%; */
+}
+.col{
+    padding: 30px;
+    font-size: 25px;
+    color: #FFF;
+    margin: 0 30px;
+    
+}
+.test{
+    background: red;
+    height: 1000px;
+    margin: 30px;
+}
